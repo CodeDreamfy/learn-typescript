@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    /* 基本选项 */
+    "target": "es5",
+    "module": "es2015", 
+    "allowJs": true,
+    "checkJs": true,
+    /* 严格的类型检查选项 */
+    "strict": true,
+    "alwaysStrict": true,
+  }
+}
